@@ -3,7 +3,7 @@ Car logo classification by using Convolutional Neural Networks (VGG16)
 
 ---
 
-#### Check detailed documentation and demo videos by clicking on the below pic-
+# Check detailed documentation by clicking on the below pic-
 
 <p style="text-align: center;">
 <a href="https://padhysai.github.io/Car_Logo_Classification/">
